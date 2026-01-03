@@ -70,11 +70,11 @@ EduVerse is built using modern web technologies and frameworks to ensure perform
 
 ### **For Instructors**:
 - **Create Courses**: Instructors can create and manage multiple courses, upload course materials (videos, PDFs), and track student progress.
-- **Manage Enrollments**: View enrolled students and communicate with them through the platform.
+- **Manage Enrollments**: View enrolled students and communicate with them using this platform.
 
 ### **For Students**:
 - **Browse Courses**: Students can browse through courses by category, rating, or instructor.
 - **Purchase Courses**: Secure payments for courses through Razorpay integration.
-- **Track Progress**: Students can monitor their learning progress through detailed course metrics.
+- **Track Progress**: Students can monitor their learning progresses through detailed course metrics.
 
 
